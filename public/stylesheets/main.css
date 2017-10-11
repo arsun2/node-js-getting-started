@@ -32,6 +32,7 @@
       width: 170px;
       height: 80px;
   }
-.center{
-  align-self: center
-}
+  label{
+      align-self: center;
+      align-content: center;
+  }
