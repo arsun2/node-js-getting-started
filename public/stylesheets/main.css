@@ -8,9 +8,10 @@
     .jumbotron .btn-primary:hover {
       background: #7646c1; }
   .jumbotron p {
-    color: #d9ccee;
+    color: block;
     max-width: 75%;
-    margin: 1em auto 2em; }
+    margin: 1em auto 2em;
+    margin-bottom: 20px}
   .navbar + .jumbotron {
     margin-top: -20px; }
   .jumbotron .lang-logo {
@@ -29,6 +30,6 @@
       color: black;
       margin-top: 10px;
       width: 170px;
-      height: 50px;
-      z-index: 1;
+      height: 80px;
+
   }
