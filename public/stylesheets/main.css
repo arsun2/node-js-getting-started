@@ -11,7 +11,7 @@
     color: block;
     max-width: 75%;
     margin: 1em auto 2em;
-    margin-bottom: 20px}
+    margin-bottom: 10px}
   .navbar + .jumbotron {
     margin-top: -20px; }
   .jumbotron .lang-logo {
@@ -31,5 +31,7 @@
       margin-top: 10px;
       width: 170px;
       height: 80px;
-
   }
+.center{
+  align-self: center
+}
