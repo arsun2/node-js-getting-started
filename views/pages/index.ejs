@@ -14,14 +14,14 @@
     <h1>UIUC Research</h1>
     <form action="">
       Project Title:<br>
-      <input type="text" name="firstname" value="">
+      <input type="text" name="firstname" value="Title">
       <br>
       Email:<br>
-      <input type="text" name="lastname" value="">
+      <input type="text" name="lastname" value="Email">
       <br><br>
     </form>
 
-    <select>
+    <select id="tstselect" name="tstselect" onchange="showselected(this.value);">
       <option value="Website">Website</option>
       <option value="Poster/Flyer">Poster/Flyer</option>
       <option value="Mobile App">Mobile App</option>
