@@ -26,6 +26,7 @@
       max-width: 100%; }
 .content_splash #userinput{
       position: absolute;
+      color: black;
       margin-top: 200px;
       width: 170px;
       height: 30px;
