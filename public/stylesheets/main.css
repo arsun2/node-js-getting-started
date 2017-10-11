@@ -24,3 +24,10 @@
     border: 2px solid white; }
     .jumbotron .lang-logo img {
       max-width: 100%; }
+.content_splash #userinput{
+      position: absolute;
+      margin-top: 200px;
+      width: 170px;
+      height: 25px;
+      z-index: 1;
+  }
